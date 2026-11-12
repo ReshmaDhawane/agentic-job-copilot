@@ -1,0 +1,4 @@
+AI/ML Engineer - Agentic AI
+We need strong Python, LangGraph and LangChain, LLM experience, RAG with a vector database,
+Docker, Kubernetes, CI/CD, Azure or AWS, prompt engineering, evaluation and guardrails.
+Nice to have: Semantic Kernel, AutoGen, CrewAI, Redis and a message queue.

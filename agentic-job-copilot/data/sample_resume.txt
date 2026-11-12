@@ -1,0 +1,15 @@
+Senior engineer with 8 years of experience building production software.
+
+- Built Gen AI backend APIs in Python with FastAPI that call LLMs, manage prompts and return structured JSON.
+
+- Designed RAG pipelines with embeddings, a vector database (FAISS) and hybrid search for semantic retrieval.
+
+- Built AI agents with tool calling and memory using LangGraph and LangChain.
+
+- Deployed services with Docker and Kubernetes through CI/CD pipelines on Azure and AWS.
+
+- Added prompt engineering, LLM evaluation and guardrails to production AI features.
+
+- Led a team of 8 engineers, ran code reviews and mentored juniors.
+
+- Built Flutter and React Native mobile apps with 500K+ downloads.

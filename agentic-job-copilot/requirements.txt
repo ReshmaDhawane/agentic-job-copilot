@@ -1,0 +1,8 @@
+langgraph==1.2.20
+fastapi==0.162.5
+uvicorn==0.34.0
+httpx==0.28.1
+rank-bm25==0.2.2
+scikit-learn==1.9.1
+numpy>=1.26
+pytest==8.3.4
